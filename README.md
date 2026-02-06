@@ -42,39 +42,39 @@ Cadastro de:
 
 - Estrutura do Projeto
 
-Main → Classe principal responsável pela interação com o usuário.
+.Main → Classe principal responsável pela interação com o usuário.
 
-Trabalhador → Representa o funcionário e contém a lógica de cálculo da renda.
+.Trabalhador → Representa o funcionário e contém a lógica de cálculo da renda.
 
-Contratos → Representa contratos pagos por hora.
+.Contratos → Representa contratos pagos por hora.
 
-Departamento → Representa o departamento do funcionário.
+.Departamento → Representa o departamento do funcionário.
 
-WorkerLevel → Enum que define o nível do funcionário (JUNIOR, MID_LEVEL, SENIOR).
+.WorkerLevel → Enum que define o nível do funcionário (JUNIOR, MID_LEVEL, SENIOR).
 
 - Diagrama UML (Resumo)
 
-Um Trabalhador pertence a um Departamento.
+.Um Trabalhador pertence a um Departamento.
 
-Um Trabalhador pode possuir vários Contratos.
+.Um Trabalhador pode possuir vários Contratos.
 
 Cada Contrato possui:
 
-Data
+.Data
 
-Valor por hora
+.Valor por hora
 
-Quantidade de horas
+.Quantidade de horas
 
-A renda mensal é calculada somando:
+- A renda mensal é calculada somando:
 
-Salário base
+.Salário base
 
-Total dos contratos no mês informado.
+.Total dos contratos no mês informado.
 
 - Objetivo do Projeto
 
-Este projeto foi desenvolvido com foco em aprendizado prático e demonstração de domínio dos fundamentos de Java e POO.
+- Este projeto foi desenvolvido com foco em aprendizado prático e demonstração de domínio dos fundamentos de Java e POO.
 
 - Autor
 
