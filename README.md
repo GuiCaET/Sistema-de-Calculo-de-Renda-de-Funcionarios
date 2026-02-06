@@ -26,13 +26,13 @@ Funcionário
 
 Contratos por hora
 
-Cálculo automático da renda mensal com base:
+- Cálculo automático da renda mensal com base:
 
 No salário base
 
 Nos contratos realizados no mês informado
 
-Relatório final exibindo:
+- Relatório final exibindo:
 
 Nome do funcionário
 
